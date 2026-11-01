@@ -1,0 +1,60 @@
+{
+    "id_os": "7697579759-1793038769",
+    "nome_arquivo_word": "Relatorio_7697579759-1793038769.docx",
+    "cabecalho": {
+        "Projeto": "7697579759",
+        "Local": "356436",
+        "Ticket": "23623",
+        "Cliente": "Petrobras",
+        "Site": "P-52",
+        "Contato": "2662356",
+        "Telefone": "6969",
+        "Técnico": "86860",
+        "Início": "76998",
+        "Término": "86896"
+    },
+    "servicos": {
+        "Survey": true,
+        "Manutenção": true,
+        "Instalação": false,
+        "Mudança de locação": false,
+        "Comissionamento": false,
+        "Desinstalação": false
+    },
+    "horas": [
+        {
+            "tipo": "1 - Trabalho Onshore",
+            "data": "",
+            "inicio": "",
+            "fim": "",
+            "descricao": ""
+        },
+        {
+            "tipo": "1 - Trabalho Onshore",
+            "data": "",
+            "inicio": "",
+            "fim": "",
+            "descricao": ""
+        }
+    ],
+    "intervencoes": [
+        {
+            "atividade": "Manutenção",
+            "categoria": "Rack / Infraestrutura",
+            "equipamento": "Switch",
+            "causa": "N/A (Não se aplica)"
+        },
+        {
+            "atividade": "Manutenção",
+            "categoria": "Rack / Infraestrutura",
+            "equipamento": "Switch",
+            "causa": "N/A (Não se aplica)"
+        },
+        {
+            "atividade": "Manutenção",
+            "categoria": "Rack / Infraestrutura",
+            "equipamento": "Switch",
+            "causa": "N/A (Não se aplica)"
+        }
+    ]
+}

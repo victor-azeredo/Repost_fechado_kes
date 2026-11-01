@@ -1,0 +1,14 @@
+
+# Ignorar banco de dados (não queremos subir dados reais de clientes)
+banco_local/*.db
+
+# Ignorar documentos Word e JSON gerados
+repositorio_arquivos/*.docx
+ENVIAR_BD/*.docx
+
+# Ignorar pastas temporárias do Python
+__pycache__/
+
+AUTOMAÇAO_RELATORIO/GERADOR_RELATORIOS_OLS/motor_offline/
+
+AUTOMAÇAO_RELATORIO/GERADOR_RELATORIOS_OLS/__pycache__/
